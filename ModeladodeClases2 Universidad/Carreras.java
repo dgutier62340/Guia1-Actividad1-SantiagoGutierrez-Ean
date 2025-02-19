@@ -1,0 +1,1 @@
+public class Carreras extends Facultad {	private String NombreCarrera;	private int CreditosTotales;	private int Semestres;	private levelCarrera NivelCarrera;	private Facultad[] facultad;}

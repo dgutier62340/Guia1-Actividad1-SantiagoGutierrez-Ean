@@ -1,0 +1,1 @@
+public class Facultad {	private String NombreFacultad;	private int idFacultad;	private Universidad universidad;}

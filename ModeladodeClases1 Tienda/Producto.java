@@ -1,0 +1,1 @@
+public class Producto {	private int Codigo;	private String NombreProducto;	private TipoProducto Tipo;	private Date FechaExpiracion;	private String NombreFabricante;	private int Inventario;	private float PrecioUnidad;	private Tienda tienda;	private Producto producto;	private Tienda[] tienda;}

@@ -1,0 +1,1 @@
+public class Tienda {	private String Nombre;	private String Direccion;	private int Telefono;}

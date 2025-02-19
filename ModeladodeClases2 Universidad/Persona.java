@@ -1,0 +1,1 @@
+public class Persona {	private int Cedula;	private String NombrePersona;	private Date FechaNacimiento;	private NacimientoPersona DatosNacimiento;	private Profesor profesor;	private Estudiantes estudiantes;}

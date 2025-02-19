@@ -1,0 +1,1 @@
+public class Cursos extends Carreras {	private int CodigoCurso;	private String NombreCurso;	private int NumeroCreditos;	private char Salon;	private String Edificio;	private Cursos cursos;	private Carreras[] carreras;}

@@ -1,0 +1,1 @@
+public class Universidad {	private String Nombre;	private String NombreRector;	private String NombreCiudad;}

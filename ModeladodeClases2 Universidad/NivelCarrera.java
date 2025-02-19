@@ -1,0 +1,1 @@
+public enum NivelCarrera {	Pregrado,	Postgrado;	private int attribute9;	private Carreras carreras;}

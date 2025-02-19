@@ -1,0 +1,1 @@
+public class DatosNacimiento {	private String Ciudad;	private String Departamento;	private String Pais;	private DatosNacimiento datosNacimiento;	private DatosNacimiento datosNacimiento;	private Persona persona;}

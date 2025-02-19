@@ -1,0 +1,1 @@
+public enum Tipo Producto {	Lacteo,	Carnico,	Fruta,	Enlatado;	private int attribute7;}

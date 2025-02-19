@@ -1,0 +1,1 @@
+public class Estudiantes {	private String ColegioGraduado;	private Date FechaIngresoUni;	private Carreras[] carreras;	private Cursos[] cursos;	private Carreras carreras;}
